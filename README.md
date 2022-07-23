@@ -8,8 +8,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoaian-phan&layout=compact&count_private=true&show_icons=true&theme=vision-friendly-dark&hide=contribs,prs,issues)
 <br>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hoaian_phan&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoaian-phan&layout=compact&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
